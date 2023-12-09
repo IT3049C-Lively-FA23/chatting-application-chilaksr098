@@ -1,4 +1,4 @@
-const nameInput = document.getElementById("myName");
+const nameInput = document.getElementById("my-name-input");
 const myMessage = document.getElementById("myMessage");
 const sendButton = document.getElementById("sendButton");
 const refButton = document.getElementById("refButton");
